@@ -83,7 +83,6 @@ lib/
 
 ## 👤 Author
 
-*   **Shilni** - [GitHub Profile](https://github.com/shilnisid)
+*   ***- [GitHub Profile](https://github.com/shilnisid)***
 
----
-*Dibuat untuk memenuhi Tugas Akhir / Skripsi.*
+
