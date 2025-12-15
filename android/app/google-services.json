@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1098949631969",
+    "project_id": "cangijoo-f2f6b",
+    "storage_bucket": "cangijoo-f2f6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098949631969:android:21119cfffb493482dbfca0",
+        "android_client_info": {
+          "package_name": "com.cangijoo.cangijoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098949631969-ll8aigbg6odmjc78vlrsrkl7v9c70lh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cangijoo.cangijoo",
+            "certificate_hash": "53d8cb6d65346e0cb6818aef9c3ab26315f2dd72"
+          }
+        },
+        {
+          "client_id": "1098949631969-hkorn6003elkj0ojd54hbokkdb2bit3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD92Tvtu5cXtYGNYFcmYc1D1cFJ-VWJJ_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098949631969-hkorn6003elkj0ojd54hbokkdb2bit3t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1098949631969-aqmo2s0ddt2rr0a98ri2rnr87od2iumm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cangijoo.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098949631969:android:46307778862b25aedbfca0",
+        "android_client_info": {
+          "package_name": "com.example.cangijoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098949631969-d4un19nvc8s84mncpegd9kc0v4git13t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cangijoo",
+            "certificate_hash": "5a1d289961c4a7d57005ef022e031b8430142dff"
+          }
+        },
+        {
+          "client_id": "1098949631969-hkorn6003elkj0ojd54hbokkdb2bit3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD92Tvtu5cXtYGNYFcmYc1D1cFJ-VWJJ_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098949631969-hkorn6003elkj0ojd54hbokkdb2bit3t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1098949631969-aqmo2s0ddt2rr0a98ri2rnr87od2iumm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cangijoo.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
