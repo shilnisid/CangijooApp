@@ -81,8 +81,6 @@ lib/
 └── firebase_options.dart
 ```
 
-## 👤 Author
 
-*   ***- [GitHub Profile](https://github.com/shilnisid)***
 
 
